@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="761d76b3-31c0-4ed2-8b2d-439fcf2a1955" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/margieblair/AirJet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/margieblair/AirPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/margieblair/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/Bank1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/CDInvestment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/CheckingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/DebitCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/InvestmentAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/out/production/Bank1/com/margieblair/SavingsAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Account/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Account/CDInvestment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Account/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Account/InvestmentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Account/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/Bank/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/BankTools/Chaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/BankTools/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/BankTools/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/BankTools/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank1/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blackjack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/DungeonsDragons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/out/production/DungeonsDragons/com/margieblair/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/out/production/DungeonsDragons/com/margieblair/CliLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/out/production/DungeonsDragons/com/margieblair/Die.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/out/production/DungeonsDragons/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/src/com/margieblair/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/src/com/margieblair/CliLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/src/com/margieblair/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DungeonsDragons/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/GraphicalUserInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/out/production/GraphicalUserInterface/com/margieblair/GUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/out/production/GraphicalUserInterface/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/src/com/margieblair/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GraphicalUserInterface/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Hotel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/Mini-Hotel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/out/production/Mini-Hotel/com/margieblair/CliLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/out/production/Mini-Hotel/com/margieblair/Hotel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/out/production/Mini-Hotel/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/src/com/margieblair/CliLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/src/com/margieblair/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-Hotel/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/Springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/out/production/Springboot/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Springboot/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/Yahtzee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/Console.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/Die.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/PlayerRolls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/ScoreBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/out/production/Yahtzee/com/margieblair/YahtzeeConsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/PlayerRolls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yahtzee/src/com/margieblair/YahtzeeConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class-projects-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservices-final" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j7R0CV8uL3gcuN77OtYsz5OsK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.MyApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.margieblair.Main" />
+      <module name="chort11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../class-projects-java/" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
+      <module name="SpringBootAgain" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../class-projects-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApp" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761d76b3-31c0-4ed2-8b2d-439fcf2a1955" name="Default Changelist" comment="" />
+      <created>1603152928412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603152928412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="23" key="#Project_Structure" timestamp="1605506707907">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.730@0.23.1280.730" timestamp="1605506707907" />
+    <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605506759930">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="209" y="23" width="1071" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1603155908691" />
+    <state x="209" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724@0.23.1280.724" timestamp="1603163847267" />
+    <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.730@0.23.1280.730" timestamp="1605506759930" />
+    <state x="703" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1603155425415">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="703" y="92" key="#com.intellij.ide.util.MemberChooser/0.23.1280.723@0.23.1280.723" timestamp="1603155425415" />
+    <state x="482" y="181" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603155905064">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="482" y="181" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.723@0.23.1280.723" timestamp="1603155905064" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1603163960783">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1603155912441" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1603163960783" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1603163960782">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1603155912440" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1603163960782" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1603163960781">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1603155912440" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1603163960781" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1603163960782">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1603155912441" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1603163960782" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1605506666652">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.730@0.23.1280.730" timestamp="1605506666652" />
+    <state x="8" y="23" key="new project wizard" timestamp="1605506285744">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="8" y="23" key="new project wizard/0.23.1280.724@0.23.1280.724" timestamp="1603163958969" />
+    <state x="8" y="23" key="new project wizard/0.23.1280.730@0.23.1280.730" timestamp="1605506285744" />
+    <state x="610" y="71" width="670" height="676" key="search.everywhere.popup" timestamp="1603153213238">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="610" y="71" width="670" height="676" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1603153213238" />
+  </component>
+</project>

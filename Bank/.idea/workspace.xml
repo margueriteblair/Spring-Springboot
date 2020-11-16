@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9c2174d-c6d0-44fc-a5e3-45fd0a676880" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java-Hotel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chort11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class-projects-java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j7nNknPcGlNzaP8KtfnmGGiSwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.margieblair.Main" />
+      <module name="bank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../class-projects-java/bank" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c2174d-c6d0-44fc-a5e3-45fd0a676880" name="Default Changelist" comment="" />
+      <created>1603163961196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603163961196</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="90" y="46" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603164220553">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="90" y="46" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1603164220553" />
+    <state x="668" y="181" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603164678992">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="668" y="181" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.723@0.23.1280.723" timestamp="1603164678992" />
+    <state x="785" y="117" key="EnvironmentVariablesDialog" timestamp="1603164698229">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="785" y="117" key="EnvironmentVariablesDialog/0.23.1280.723@0.23.1280.723" timestamp="1603164698229" />
+    <state width="576" height="180" key="GridCell.Tab.0.bottom" timestamp="1603164301553">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1603164301553" />
+    <state width="576" height="180" key="GridCell.Tab.0.center" timestamp="1603164301551">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1603164301551" />
+    <state width="576" height="180" key="GridCell.Tab.0.left" timestamp="1603164301550">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1603164301550" />
+    <state width="576" height="180" key="GridCell.Tab.0.right" timestamp="1603164301552">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="576" height="180" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1603164301552" />
+    <state x="16" y="23" key="new project wizard" timestamp="1603227210582">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="16" y="23" key="new project wizard/0.23.1280.723@0.23.1280.723" timestamp="1603227210582" />
+  </component>
+</project>
